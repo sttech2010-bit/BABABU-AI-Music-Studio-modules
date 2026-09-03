@@ -1,0 +1,8 @@
+gradio
+demucs
+faster-whisper
+basic-pitch
+pretty_midi
+torch
+torchaudio
+denoiser
